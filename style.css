@@ -1129,6 +1129,14 @@ nav ul li a:hover::after{
 
 }
 
+.video-wrapper{
+
+    width:95%;
+    max-width:1400px;
+    margin:auto;
+
+}
+
 /* ==========================================
    FUTURE IMPROVEMENTS
 ========================================== */
@@ -1550,28 +1558,6 @@ nav ul li a:hover::after{
     color:#5B3A29;
 
     margin-bottom:15px;
-
-}
-
-/* =====================================================
-   VIDEO
-===================================================== */
-
-.video-container{
-
-    max-width:900px;
-
-    margin:auto;
-
-}
-
-.video-container video{
-
-    width:100%;
-
-    border-radius:20px;
-
-    box-shadow:0 15px 35px rgba(0,0,0,.12);
 
 }
 
